@@ -1,0 +1,25 @@
+{
+    "@context": "https://schem.org",
+    "@type": "organization",
+    "name": "PATRICK CONTRACTOR",
+    "altenateName": "PATRICK CONTRACTOR",
+    "url": "https://patrickcontractors.com",
+    "logo": "https://patrickcontractors.com/assets/img/logo.png",
+    "description": "Patrick Contractor is Registed Company from Tanzania deals with building constraction, cctv installation and Electrical installation.",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kabuku-handeni-Tanga",
+        "addressRegion": "Tanga",
+        "address": "Tanzania"
+    },
+
+    "contactPoint": {
+        "@type": "contactPoint",
+        "telephone": "+2556999722149",
+        "contactType": "Phone"
+    },
+
+    "sameAs": [
+        "https://web.facebook.com/Patrick"
+    ]
+}
